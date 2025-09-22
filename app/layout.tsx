@@ -9,8 +9,8 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "HIDSS Command Center",
-  description: "A Hybrid Intelligence Decision Support System for Traffic Optimization.",
+  title: "RailZenith",
+  description: "A RailZenith for Traffic Optimization.",
 }
 
 export default function RootLayout({

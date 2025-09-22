@@ -20,7 +20,7 @@ export default function SettingsPage() {
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-3xl font-bold text-white">System Settings</h1>
-          <p className="text-gray-400 mt-1">Configure HIDSS Command Center preferences</p>
+          <p className="text-gray-400 mt-1">Configure RailZenith preferences</p>
         </div>
         <div className="flex items-center space-x-2">
           <div className="w-3 h-3 bg-green-500 rounded-full"></div>

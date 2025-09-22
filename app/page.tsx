@@ -19,7 +19,7 @@ import {
   RotateCcw,
 } from "lucide-react"
 
-export default function HIDSSCommandCenter() {
+export default function RailZenith() {
   const [trafficDiversion, setTrafficDiversion] = useState([30])
   const [trainDelay, setTrainDelay] = useState([10])
   const [congestionIndex, setCongestionIndex] = useState(82)
@@ -91,8 +91,8 @@ export default function HIDSSCommandCenter() {
         {/* Left side - Critical KPIs prominently displayed as per PDF requirements */}
         <div className="flex items-start space-x-8">
           <div>
-            <h1 className="text-4xl font-bold text-white mb-2">HIDSS Command Center</h1>
-            <p className="text-gray-400">Hybrid Intelligence Decision Support System</p>
+            <h1 className="text-4xl font-bold text-white mb-2">RailZenith</h1>
+            <p className="text-gray-400">RailZenith</p>
           </div>
 
           {/* Critical KPIs in top-left corner as specified in PDF */}

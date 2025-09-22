@@ -45,7 +45,7 @@ export function Navigation() {
           <div className="flex items-center px-6 py-4 border-b border-gray-700">
             <Activity className="h-8 w-8 text-[#e94560] mr-3" />
             <div>
-              <h1 className="text-lg font-bold text-white">HIDSS</h1>
+              <h1 className="text-lg font-bold text-white">RailZenith</h1>
               <p className="text-xs text-gray-400">Command Center</p>
             </div>
           </div>
