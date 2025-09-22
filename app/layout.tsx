@@ -10,7 +10,7 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "RailZenith",
-  description: "A RailZenith for Traffic Optimization.",
+  description: "On time, Every time",
 }
 
 export default function RootLayout({

@@ -92,7 +92,7 @@ export default function RailZenith() {
         <div className="flex items-start space-x-8">
           <div>
             <h1 className="text-4xl font-bold text-white mb-2">RailZenith</h1>
-            <p className="text-gray-400">RailZenith</p>
+            <p className="text-gray-400">On time, Every time</p>
           </div>
 
           {/* Critical KPIs in top-left corner as specified in PDF */}
